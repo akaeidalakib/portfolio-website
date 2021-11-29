@@ -1,0 +1,20 @@
+#name-title{
+    color: #fe3e57;
+}
+
+.name-h1{
+    font-size: 85px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0;
+    line-height: 70px;
+}
+
+.wpo-hero-style-2 {
+    background-image: url("../../../../img/nav-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.img-size{
+    width: 100%;
+}

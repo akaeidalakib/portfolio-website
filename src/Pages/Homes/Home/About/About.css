@@ -1,0 +1,23 @@
+.bg-color{
+    background-color: #070640;
+}
+.h2-about{
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 40px;
+    line-height: 70px;
+}
+
+.resume-btn {
+    color: #fff;
+    font-weight: 600;
+    padding: 17px 40px 13px;
+    text-transform: capitalize;
+    display: block;
+    border: 1px solid #cb2e43;
+    display: inline-block;
+    background: #0d0b69;
+    position: relative;
+    overflow: hidden;
+}
